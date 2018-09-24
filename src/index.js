@@ -8,6 +8,6 @@ module.exports = function getZerosCount(number) {
             prom=prom/5;
             res++;
     }
-             return res;
     }
+    return res;
 }
